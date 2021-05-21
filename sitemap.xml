@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http:///zhangjinfu.xyz/2014/09/creating-a-new-theme/</loc>
+    <loc>http://zhangjinfu.xyz/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>http://zhangjinfu.xyz/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/</loc>
+    <loc>http://zhangjinfu.xyz/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/posts/</loc>
+    <loc>http://zhangjinfu.xyz/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/2014/04/hugo-template-primer/</loc>
+    <loc>http://zhangjinfu.xyz/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/categories/</loc>
+    <loc>http://zhangjinfu.xyz/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/categories/development/</loc>
+    <loc>http://zhangjinfu.xyz/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/tags/development/</loc>
+    <loc>http://zhangjinfu.xyz/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/2014/04/getting-started-with-hugo/</loc>
+    <loc>http://zhangjinfu.xyz/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/tags/go/</loc>
+    <loc>http://zhangjinfu.xyz/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/tags/golang/</loc>
+    <loc>http://zhangjinfu.xyz/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/categories/golang/</loc>
+    <loc>http://zhangjinfu.xyz/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/tags/hugo/</loc>
+    <loc>http://zhangjinfu.xyz/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/tags/</loc>
+    <loc>http://zhangjinfu.xyz/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/tags/templates/</loc>
+    <loc>http://zhangjinfu.xyz/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http:///zhangjinfu.xyz/tags/themes/</loc>
+    <loc>http://zhangjinfu.xyz/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

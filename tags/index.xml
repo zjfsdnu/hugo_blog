@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Bootstrap v4 Blog</title>
-    <link>http:///zhangjinfu.xyz/tags/</link>
+    <link>http://zhangjinfu.xyz/tags/</link>
     <description>Recent content in Tags on Hugo Bootstrap v4 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http:///zhangjinfu.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://zhangjinfu.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>http:///zhangjinfu.xyz/tags/development/</link>
+      <link>http://zhangjinfu.xyz/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http:///zhangjinfu.xyz/tags/development/</guid>
+      <guid>http://zhangjinfu.xyz/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http:///zhangjinfu.xyz/tags/go/</link>
+      <link>http://zhangjinfu.xyz/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http:///zhangjinfu.xyz/tags/go/</guid>
+      <guid>http://zhangjinfu.xyz/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http:///zhangjinfu.xyz/tags/golang/</link>
+      <link>http://zhangjinfu.xyz/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http:///zhangjinfu.xyz/tags/golang/</guid>
+      <guid>http://zhangjinfu.xyz/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http:///zhangjinfu.xyz/tags/hugo/</link>
+      <link>http://zhangjinfu.xyz/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http:///zhangjinfu.xyz/tags/hugo/</guid>
+      <guid>http://zhangjinfu.xyz/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>http:///zhangjinfu.xyz/tags/templates/</link>
+      <link>http://zhangjinfu.xyz/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http:///zhangjinfu.xyz/tags/templates/</guid>
+      <guid>http://zhangjinfu.xyz/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http:///zhangjinfu.xyz/tags/themes/</link>
+      <link>http://zhangjinfu.xyz/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http:///zhangjinfu.xyz/tags/themes/</guid>
+      <guid>http://zhangjinfu.xyz/tags/themes/</guid>
       <description></description>
     </item>
     
